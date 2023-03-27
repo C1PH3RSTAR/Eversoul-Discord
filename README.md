@@ -5,3 +5,6 @@ Violet Skies
 
 Oceanic Oasis
 ![Capture](https://user-images.githubusercontent.com/104942567/227780688-93bc5517-2abd-4827-9ce8-0fd06b1a6957.PNG)
+
+Thorned Rose
+![Capture](https://user-images.githubusercontent.com/104942567/227819984-ca769fb0-67b7-4437-938c-306d45c5b1b3.PNG)
