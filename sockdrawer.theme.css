@@ -1,0 +1,33 @@
+/**
+ * @name Sock Drawer
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+
+:root {
+  --backgroundImage: url('https://cdn.discordapp.com/attachments/1076284907032162415/1089762088295084062/image.png');
+  --backgroundColor: #170904;
+  --backgroundSize: 100%;
+  --backgroundPosition: center right;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.5;
+  --homeImage: url('https://cdn.discordapp.com/attachments/683228939522801707/1089761682995294258/kevin_bg_thingy.png');
+  --homeImageSize: contain;
+  --themeColor1: #7A0000;
+  --themeColor2: #000000;
+  --customFont: Minecraftia;
+  --backgroundCode: rgb(0,0,0,0.65);
+  --backgroundName: rgb(14,5,0,0.76);
+}
+
+/* Any custom CSS below here */
+
+
