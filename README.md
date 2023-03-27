@@ -14,3 +14,6 @@ Black Cat
 
 Ice Queen
 ![Capture](https://user-images.githubusercontent.com/104942567/227834368-0f0aa7b2-e4bb-4a4c-aace-d92e7c814381.PNG)
+
+Sunny Dragon
+![Capture](https://user-images.githubusercontent.com/104942567/227835951-708a458d-6f08-4e79-822b-bb3dce8b1b26.PNG)
