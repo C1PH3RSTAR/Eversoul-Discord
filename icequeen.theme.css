@@ -1,0 +1,34 @@
+/**
+ * @name Ice Queen
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/xOXxMSC.jpg');
+  --backgroundColor: #282828;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 4px;
+  --backgroundOpacity: 0.2;
+  --homeImage: url('https://i.imgur.com/10nZvv3.png');
+  --homeImageSize: cover;
+  --themeColor1: #BCE2E5;
+  --themeColor2: #AFB7C7;
+  --customFont: Lora;
+  --backgroundCode: rgb(172,168,168,0.29);
+  --backgroundName: rgb(115,108,108,0.69);
+}
+
+/* Any custom CSS below here */
+
+
