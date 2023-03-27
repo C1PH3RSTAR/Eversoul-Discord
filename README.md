@@ -8,3 +8,6 @@ Oceanic Oasis
 
 Thorned Rose
 ![Capture](https://user-images.githubusercontent.com/104942567/227819984-ca769fb0-67b7-4437-938c-306d45c5b1b3.PNG)
+
+Black Cat
+![Capture](https://user-images.githubusercontent.com/104942567/227832561-849bcd5f-7b9c-4c2c-b344-c772e13d26d9.PNG)
