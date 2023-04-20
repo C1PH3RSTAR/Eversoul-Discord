@@ -20,3 +20,6 @@ Sunny Dragon
 
 Leafy Farmer
 ![Capture](https://user-images.githubusercontent.com/104942567/227859993-190a40b4-86d9-4b02-9427-721a5b213b16.PNG)
+
+Peace and Love
+![Capture](https://user-images.githubusercontent.com/104942567/233492065-249f53a4-84a8-48b1-8f6e-c32ad1f79240.PNG)
