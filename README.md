@@ -18,8 +18,5 @@ Ice Queen
 Sunny Dragon
 ![Capture](https://user-images.githubusercontent.com/104942567/227835951-708a458d-6f08-4e79-822b-bb3dce8b1b26.PNG)
 
-Sock Drawer
-![Capture](https://user-images.githubusercontent.com/104942567/227839788-b0bda6b1-dee4-4b4f-9871-f63c99ee6190.PNG)
-
 Leafy Farmer
 ![Capture](https://user-images.githubusercontent.com/104942567/227859993-190a40b4-86d9-4b02-9427-721a5b213b16.PNG)
